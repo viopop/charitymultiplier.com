@@ -1,7 +1,7 @@
 source "https://rubygems.org"
-ruby '2.2.2'
-gem 'jekyll'
-gem 'jekyll-assets'
-gem 'jekyll-paginate'
-gem 'sass'
-gem 'uglifier'
+
+gem 'guard'
+gem 'guard-copy'
+gem 'guard-sass'
+gem 'guard-uglify'
+gem 'siteleaf'
