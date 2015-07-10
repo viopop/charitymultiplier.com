@@ -1,9 +1,7 @@
 <nav class="text-right" role="navigation">
   <ul class="list-unstyled list-inline">
-    <li><a data-scroll-to="#who" data-scroll-offset="-122">Team</a></li>
-    <li><a data-scroll-to="#what" data-scroll-offset="-122">Services</a></li>
-    <li><a data-scroll-to="#how" data-scroll-offset="-122">Process</a></li>
-    <li><a data-scroll-to="#pricing" data-scroll-offset="-122">Pricing</a></li>
-    <li><a data-scroll-to="#get-started" data-scroll-offset="-122">Get Started</a></li>
+    {% for page in pages %}
+      <li><a data-scroll-to="{{page.meta.section_id}}" data-scroll-offset="-122">{{page.meta.nav_title | fallback:page.title}}</a></li>
+    {% endfor %}
   </ul>
 </nav>
