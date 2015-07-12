@@ -21,6 +21,13 @@ header.page {
     }
   }
 }
-section { min-height: 300px; }
+code { font-size: 1.2em; }
 #what { background-color: $light-gray; }
 #how { background-color: $off-white; }
+
+@media #{$xs} {
+  header.page .header-home {
+    h1 { font-size: 36px; margin-top: 40px; }
+    h2 { font-size: 24px; }
+  }
+}

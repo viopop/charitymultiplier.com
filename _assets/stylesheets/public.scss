@@ -10,6 +10,7 @@ a {
     &:hover { border-bottom: 0; text-decoration: none; }
   }
 }
+code { background-color: lighten($color1, 40%); color: $color1; }
 
 .page { position: relative; }
 
