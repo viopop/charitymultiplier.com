@@ -1,12 +1,12 @@
 ---
-time: 1436835526
+time: 1436998586
 inventory:
   "/home/index.html":
-    md5: 4fd5d5068e907d05d410fa84f2a79951
-    time: 1436835523
+    md5: 75abac77eaba411509e8d173e34fcd91
+    time: 1436998584
   "/index.html":
-    md5: 4fd5d5068e907d05d410fa84f2a79951
-    time: 1436835523
+    md5: 75abac77eaba411509e8d173e34fcd91
+    time: 1436998584
   "/thanks/index.html":
     md5: 93c887d764337f60db7a5349aaaef810
     time: 1436740639
@@ -29,11 +29,11 @@ inventory:
     md5: a65e97c2a19f238a163a57a3a3e5f22b
     time: 1436740639
   "/sitemap.xml":
-    md5: f0c39328a863be5de5ead7a1e458443d
-    time: 1436740639
+    md5: 2bdb486265f73ae0ec4ae075ee844d05
+    time: 1436998584
   "/feed.xml":
-    md5: 7f3d4b1c97b74f22e7959074a0c161ed
-    time: 1436835525
+    md5: ac6916774e08e541ba2a2371c5530065
+    time: 1436998584
   "/_assets/images/header-home.jpg":
     md5: d4d8ecbb7435188c6c7085ed198b68be
     time: 1436740639
@@ -127,6 +127,3 @@ inventory:
   "/assets/stylesheets/public.css":
     md5: 36f2541ad400d60dbc4a42a627e217ee
     time: 1436740642
-  "/assets/Profile Avatar.jpg":
-    md5: 6c0bba012daa2d1c0c2239bf57d7c497
-    time: 1436835492
