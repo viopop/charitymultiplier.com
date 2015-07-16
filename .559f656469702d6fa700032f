@@ -1,12 +1,12 @@
 ---
-time: 1437005738
+time: 1437005777
 inventory:
   "/home/index.html":
-    md5: aff8bc88c6e87e57953a6fc0a7ff8bed
-    time: 1437005735
+    md5: 3db2e161483ca14d31b29d967f64fa94
+    time: 1437005775
   "/index.html":
-    md5: aff8bc88c6e87e57953a6fc0a7ff8bed
-    time: 1437005735
+    md5: 3db2e161483ca14d31b29d967f64fa94
+    time: 1437005775
   "/thanks/index.html":
     md5: 93c887d764337f60db7a5349aaaef810
     time: 1436740639
@@ -23,8 +23,8 @@ inventory:
     md5: 0ae6fac2dc85b4d1920d8160ed81ecc0
     time: 1437005347
   "/home/get-started/index.html":
-    md5: a9d7cf1a414038590d86c51d4da66c00
-    time: 1437005737
+    md5: 087d84e67ff28e84cefc80c526bd5b79
+    time: 1437005776
   "/CNAME":
     md5: a65e97c2a19f238a163a57a3a3e5f22b
     time: 1436740639
@@ -32,8 +32,8 @@ inventory:
     md5: d681858d3f2c7a350bfda2e618c672d0
     time: 1437000418
   "/feed.xml":
-    md5: f39ca928ebd9c4d750e778ca86886941
-    time: 1437005737
+    md5: afa00e5b6742cdade445d77a5ebac369
+    time: 1437005776
   "/_assets/images/header-home.jpg":
     md5: d4d8ecbb7435188c6c7085ed198b68be
     time: 1436740639
