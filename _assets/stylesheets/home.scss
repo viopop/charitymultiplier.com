@@ -22,8 +22,8 @@ header.page {
   }
 }
 code { font-size: 1.2em; }
-#what { background-color: $light-gray; }
 #how { background-color: $off-white; }
+#team { background-color: $light-gray; }
 
 @media #{$xs} {
   header.page .header-home {
